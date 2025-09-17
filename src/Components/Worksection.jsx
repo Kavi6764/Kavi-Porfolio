@@ -1,5 +1,5 @@
 import { ExternalLink, ArrowRight } from "lucide-react";
-import InfoyieldxImg from "../assets/infoyieldx.png"; // Replace with your actual images
+import InfoyieldxImg from "../assets/Infoyieldx.png"; // Replace with your actual images
 import ImagifyImg from "../assets/imagify.png";
 import GeminiImg from "../assets/GeminiClone.png";
 import ChatAppImg from "../assets/Chat-App.png";
